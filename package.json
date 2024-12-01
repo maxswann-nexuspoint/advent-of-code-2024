@@ -1,0 +1,12 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maxswann-nexuspoint/advent-of-code-2024.git",
+  "author": "Max Swann <max.swann@nexuspoint.co.uk>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+      "day1": "node ./day-1/day-1.js"
+  }
+}
