@@ -7,6 +7,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-      "day1": "node ./day-1/day-1.js"
+      "day1": "node ./day-1/day-1.js",
+      "day2": "node ./day-2/day-2.js"
   }
 }
