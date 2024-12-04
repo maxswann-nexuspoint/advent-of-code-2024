@@ -1,5 +1,9 @@
 {
   "name": "advent-of-code-2024",
+  "target": "es2023",
+  "lib": [
+    "es2023"
+  ],
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/maxswann-nexuspoint/advent-of-code-2024.git",
@@ -9,7 +13,8 @@
   "scripts": {
     "day1": "node ./day-1/day-1.js",
     "day2": "node ./day-2/day-2.js",
-    "day3": "tsx ./day-3/day-3.ts"
+    "day3": "tsx ./day-3/day-3.ts",
+    "day4": "tsx ./day-4/day-4.ts"
   },
   "devDependencies": {
     "tsx": "^4.19.2"
