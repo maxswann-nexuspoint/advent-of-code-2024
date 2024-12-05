@@ -14,7 +14,8 @@
     "day1": "node ./day-1/day-1.js",
     "day2": "node ./day-2/day-2.js",
     "day3": "tsx ./day-3/day-3.ts",
-    "day4": "tsx ./day-4/day-4.ts"
+    "day4": "tsx ./day-4/day-4.ts",
+    "day5": "tsx ./day-5/day-5.ts"
   },
   "devDependencies": {
     "tsx": "^4.19.2"
